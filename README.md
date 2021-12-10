@@ -1,7 +1,7 @@
-![Alt text](/imgs/cadastro.png?raw=true "Cadastro")
+![Alt text](imgs/cadastro.png?raw=true "Cadastro")
 
 -----
-![Alt text](/imgs/lista.png?raw=true "Lista")
+![Alt text](imgs/lista.png?raw=true "Lista")
 
 -----
 <h1> Para rodar </h1>
@@ -14,9 +14,9 @@
  ---------
  
  
-![Alt text](/imgs/semprodutos.png?raw=true "Lista")
+![Alt text](imgs/semprodutos.png?raw=true "Sem Produto")
 
 
 -----
 
-![Alt text](/imgs/validacao.png?raw=true "Lista")
+![Alt text](imgs/validacao.png?raw=true "Valicacao")
